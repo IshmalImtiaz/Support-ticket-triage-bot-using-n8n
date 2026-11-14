@@ -10,7 +10,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "API key removed for security purposes "
+              "value": "Bearer API key removed for security purposes "
             },
             {
               "name": "Content-Type",
